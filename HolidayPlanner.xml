@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<holidayplanner>
+  <section name="Africa">
+    <entree>
+      <country>Uganda</country>
+      <whyGo>Trek to see mountain gorillas in the wild</whyGo>
+      <wheretoGo>Mgahinga Gorilla National Park</wheretoGo>
+      <whentoGo>Anytime</whentoGo>
+      <timeinDays>12</timeinDays>
+      <levelofDifficulty>Medium</levelofDifficulty>
+      <entraceFees>544.56</entraceFees>
+    </entree>
+    <entree>
+      <country>Kenya and Tanzania</country>
+      <whyGo>Watch the Great Migration</whyGo>
+      <wheretoGo>Serengeti National Park</wheretoGo>
+      <whentoGo>July through September</whentoGo>
+      <timeinDays>8</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>54.46</entraceFees>
+    </entree>
+    <entree>
+      <country>Zambia and Zimbabwe</country>
+      <whyGo>Visit the largest waterfalls in the world</whyGo>
+      <wheretoGo>Victoria Falls</wheretoGo>
+      <whentoGo>June through September</whentoGo>
+      <timeinDays>2</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>27.23</entraceFees>
+    </entree>
+    <entree>
+      <country>Namibia</country>
+      <whyGo>Climb some of the highest sand dunes in the world</whyGo>
+      <wheretoGo>Namib-Naukluft National Park</wheretoGo>
+      <whentoGo>Year-round</whentoGo>
+      <timeinDays>4</timeinDays>
+      <levelofDifficulty>Medium</levelofDifficulty>
+      <entraceFees>72.61</entraceFees>
+    </entree>
+    <entree>
+      <country>Botswana</country>
+      <whyGo>Up-close wildlife experiences</whyGo>
+      <wheretoGo>Okavango Delta</wheretoGo>
+      <whentoGo>May to September</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>136.14</entraceFees>
+    </entree>
+    <entree>
+      <country>Morocco</country>
+      <whyGo>Camel trek in the Sahara Desert and slept under the stars</whyGo>
+      <wheretoGo>Marrakesh</wheretoGo>
+      <whentoGo>Year-round</whentoGo>
+      <timeinDays>5</timeinDays>
+      <levelofDifficulty>High</levelofDifficulty>
+      <entraceFees>40</entraceFees>
+    </entree>
+  </section>
+  <section name="Asia">
+    <entree>
+      <country>Indonesia</country>
+      <whyGo>Looming volcanoes and lush terraced rice fields that exude peace and serenity</whyGo>
+      <wheretoGo>Bali</wheretoGo>
+      <whentoGo>April and October</whentoGo>
+      <timeinDays>7</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>27.72</entraceFees>
+    </entree>
+    <entree>
+      <country>India</country>
+      <whyGo>Watch pilgrims come to the Ganges to wash away sins in the sacred waters, to cremate their loved ones, or simply to die, hoping for liberation from the cycle of rebirth</whyGo>
+      <wheretoGo>Varanasi</wheretoGo>
+      <whentoGo>November to February</whentoGo>
+      <timeinDays>2</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>15.43</entraceFees>
+    </entree>
+    <entree>
+      <country>Nepal</country>
+      <whyGo>Everest or Annapurna trekking</whyGo>
+      <wheretoGo>Himalaya</wheretoGo>
+      <whentoGo>Mid of September to mid of December</whentoGo>
+      <timeinDays>15</timeinDays>
+      <levelofDifficulty>High</levelofDifficulty>
+      <entraceFees>1.452.15</entraceFees>
+    </entree>
+    <entree>
+      <country>Japan</country>
+      <whyGo>Watch cherry blossoms in full bloom</whyGo>
+      <wheretoGo>Kyoto</wheretoGo>
+      <whentoGo>March</whentoGo>
+      <timeinDays>4</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>75.33</entraceFees>
+    </entree>
+    <entree>
+      <country>Cambodia</country>
+      <whyGo>Visit the largest religious monument in the world</whyGo>
+      <wheretoGo>Angkor Wat temple</wheretoGo>
+      <whentoGo>November to March</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>33.58</entraceFees>
+    </entree>
+    <entree>
+      <country>Vietnam</country>
+      <whyGo>Visit the islets in the bay and topped by thick jungle growth</whyGo>
+      <wheretoGo>Halong Bay</wheretoGo>
+      <whentoGo>October to December</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>11.80</entraceFees>
+    </entree>
+    <entree>
+      <country>Bhutan</country>
+      <whyGo>Visit the sacred monastery built on a rocky cliff 3,000 feet above the Paro valley</whyGo>
+      <wheretoGo>Tiger’s Nest Temple</wheretoGo>
+      <whentoGo>March to May</whentoGo>
+      <timeinDays>1</timeinDays>
+      <levelofDifficulty>High</levelofDifficulty>
+      <entraceFees>6.34</entraceFees>
+    </entree>
+    <entree>
+      <country>Philippines</country>
+      <whyGo>Visit the beautiful rice terraces</whyGo>
+      <wheretoGo>Banaue</wheretoGo>
+      <whentoGo>April to May or October to November</whentoGo>
+      <timeinDays>6</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>1.25</entraceFees>
+    </entree>
+    <entree>
+      <country>Laos</country>
+      <whyGo>It is beautiful</whyGo>
+      <wheretoGo>Beaches</wheretoGo>
+      <whentoGo>Sun</whentoGo>
+      <timeinDays>2</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>0</entraceFees>
+    </entree>
+  </section>
+  <section name="South America">
+    <entree>
+      <country>Peru</country>
+      <whyGo>Find out the mysteries of the Inca Empire</whyGo>
+      <wheretoGo>Machu Picchu</wheretoGo>
+      <whentoGo>April and October</whentoGo>
+      <timeinDays>1</timeinDays>
+      <levelofDifficulty>High</levelofDifficulty>
+      <entraceFees>40.84</entraceFees>
+    </entree>
+    <entree>
+      <country>Chile</country>
+      <whyGo>Visit the world’s driest desert</whyGo>
+      <wheretoGo>Atacama Desert</wheretoGo>
+      <whentoGo>September to November and March to May</whentoGo>
+      <timeinDays>4</timeinDays>
+      <levelofDifficulty>Medium</levelofDifficulty>
+      <entraceFees>3.29</entraceFees>
+    </entree>
+    <entree>
+      <country>Ecuador</country>
+      <whyGo>Enjoy fascinating wildlife</whyGo>
+      <wheretoGo>Galapagos Islands</wheretoGo>
+      <whentoGo>December to June</whentoGo>
+      <timeinDays>5</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>90.76</entraceFees>
+    </entree>
+    <entree>
+      <country>Bolivia</country>
+      <whyGo>Visit the largest sault desert in the world</whyGo>
+      <wheretoGo>Salar de Uyuni</wheretoGo>
+      <whentoGo>February and March</whentoGo>
+      <timeinDays>4</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>90.76</entraceFees>
+    </entree>
+    <entree>
+      <country>Argentina</country>
+      <whyGo>Visit the end of the world</whyGo>
+      <wheretoGo>Ushuaia</wheretoGo>
+      <whentoGo>October to February</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>0.76</entraceFees>
+    </entree>
+    <entree>
+      <country>Brazil</country>
+      <whyGo>Have fun at those immense expanses of dunes, which look like lençóis (bedsheets) strewn across the landscape</whyGo>
+      <wheretoGo>Parque Nacional dos Lençóis Maranhenses</wheretoGo>
+      <whentoGo>June to August</whentoGo>
+      <timeinDays>10</timeinDays>
+      <levelofDifficulty>Medium</levelofDifficulty>
+      <entraceFees>8.56</entraceFees>
+    </entree>
+  </section>
+  <section name="North America">
+    <entree city="true">
+      <country>United States</country>
+      <whyGo>Visit this melting pot of the entire world</whyGo>
+      <wheretoGo>New York</wheretoGo>
+      <whentoGo>April to June and September to early November</whentoGo>
+      <timeinDays>5</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>216.91</entraceFees>
+    </entree>
+    <entree city="true">
+      <country>Cuba</country>
+      <whyGo>Watch classic cars roam and seasoned gentlemen surround themselves in billows of cigar smoke</whyGo>
+      <wheretoGo>Old Havana</wheretoGo>
+      <whentoGo>December to May</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>40.84</entraceFees>
+    </entree>
+    <entree>
+      <country>Hawaii</country>
+      <whyGo>Enjoy the swinging coconut and palm trees and the very blue seas</whyGo>
+      <wheretoGo>Honolulu</wheretoGo>
+      <whentoGo>April, May, September and October</whentoGo>
+      <timeinDays>10</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>177.89</entraceFees>
+    </entree>
+    <entree>
+      <country>Canada</country>
+      <whyGo>Visit the polar bear capital of the world</whyGo>
+      <wheretoGo>Churchill</wheretoGo>
+      <whentoGo>July to November</whentoGo>
+      <timeinDays>6</timeinDays>
+      <levelofDifficulty>Medium</levelofDifficulty>
+      <entraceFees>329.64</entraceFees>
+    </entree>
+    <entree>
+      <country>Mexico</country>
+      <whyGo>Enjoy soft sands on the beache and its stunning shoreline views</whyGo>
+      <wheretoGo>Playa del Carmen</wheretoGo>
+      <whentoGo>April and May</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>33.58</entraceFees>
+    </entree>
+  </section>
+  <section name="Europe">
+    <entree>
+      <country>Hungary</country>
+      <whyGo>Relax at almost 125 thermal springs</whyGo>
+      <wheretoGo>Budapest</wheretoGo>
+      <whentoGo>March to May and September through November</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>12</entraceFees>
+    </entree>
+    <entree>
+      <country>Switzerland</country>
+      <whyGo>Visit some of the most dramatic scenery in the world and haven for winter sports enthusiasts</whyGo>
+      <wheretoGo>Swiss Alps</wheretoGo>
+      <whentoGo>April and June, and September to October</whentoGo>
+      <timeinDays>2</timeinDays>
+      <levelofDifficulty>Medium</levelofDifficulty>
+      <entraceFees>177.89</entraceFees>
+    </entree>
+    <entree city="true">
+      <country>Turkey</country>
+      <whyGo>Be amazed at ancient city that boasts modern advances</whyGo>
+      <wheretoGo>Istanbul</wheretoGo>
+      <whentoGo>April and June, and September to October</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>29.95</entraceFees>
+    </entree>
+    <entree>
+      <country>Italy</country>
+      <whyGo>Discover the landscapes of Tuscany, the vineyards, cypress paths, gastronomy and the art of living of this region</whyGo>
+      <wheretoGo>Tuscany</wheretoGo>
+      <whentoGo>September and October, and April and May</whentoGo>
+      <timeinDays>5</timeinDays>
+      <levelofDifficulty>Medium</levelofDifficulty>
+      <entraceFees>115</entraceFees>
+    </entree>
+    <entree>
+      <country>Greece</country>
+      <whyGo>Discover complex of Santorini islands and an active volcano</whyGo>
+      <wheretoGo>Santorini</wheretoGo>
+      <whentoGo>April and early November</whentoGo>
+      <timeinDays>5</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>109</entraceFees>
+    </entree>
+  </section>
+  <section name="Australia and Oceania">
+    <entree>
+      <country>Australia</country>
+      <whyGo>Watch the turtles hatch in Queensland</whyGo>
+      <wheretoGo>Mon Repos Conservation Park</wheretoGo>
+      <whentoGo>January to April</whentoGo>
+      <timeinDays>7</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>8.60</entraceFees>
+    </entree>
+    <entree>
+      <country>Polynesia</country>
+      <whyGo>Dream with a fantastic lagoon and beautiful coral reefs</whyGo>
+      <wheretoGo>Bora Bora</wheretoGo>
+      <whentoGo>November and April</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>122.53</entraceFees>
+    </entree>
+    <entree>
+      <country>The Cook Islands</country>
+      <whyGo>Visit jewels in turquoise and azure water protected by coral reefs</whyGo>
+      <wheretoGo>Rarotonga</wheretoGo>
+      <whentoGo>May to October</whentoGo>
+      <timeinDays>12</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>57.27</entraceFees>
+    </entree>
+    <entree>
+      <country>New Zealand</country>
+      <whyGo>Ski and surf on the same day</whyGo>
+      <wheretoGo>Christchurch</wheretoGo>
+      <whentoGo>December to February</whentoGo>
+      <timeinDays>3</timeinDays>
+      <levelofDifficulty>High</levelofDifficulty>
+      <entraceFees>27.23</entraceFees>
+    </entree>
+    <entree>
+      <country>Micronesia</country>
+      <whyGo>Delight all senses with this archipelago of more than 200 extraordinary volcanic islands, stunning emerald green forests and shimmering blue lagoons</whyGo>
+      <wheretoGo>Palau</wheretoGo>
+      <whentoGo>November and April</whentoGo>
+      <timeinDays>5</timeinDays>
+      <levelofDifficulty>Low</levelofDifficulty>
+      <entraceFees>136.14</entraceFees>
+    </entree>
+  </section>
+  <section name="Antarctica">
+    <entree>
+      <country>Antarctica</country>
+      <whyGo>Great white continent and one of the last true wilderness areas on earth</whyGo>
+      <wheretoGo>Argentina, Chile, New Zealand or South Africa</wheretoGo>
+      <whentoGo>October to March</whentoGo>
+      <timeinDays>6 to 35</timeinDays>
+      <levelofDifficulty>High</levelofDifficulty>
+      <entraceFees>3.176.57</entraceFees>
+    </entree>
+  </section>
+</holidayplanner>

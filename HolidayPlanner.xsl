@@ -4,10 +4,11 @@
                 <table id="plannerTable" class="indent">
                     <thead>
                         <tr>
-                            <th colspan="8">Holiday Planner</th>
+                            <th colspan="9">Holiday Planner</th>
                         </tr>
                         <tr>
                             <th>Select</th>
+                            <th></th>
                             <th>country</th>
                             <th>whyGo</th>
 			    <th>wheretoGo</th>
@@ -20,7 +21,7 @@
                     <tbody>
                         <xsl:for-each select="/holidayplanner/section">
                             <tr>
-                                <td colspan="8">
+                                <td colspan="9">
                                     <xsl:value-of select="@name" />
                                 </td>
                             </tr>

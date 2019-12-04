@@ -30,6 +30,28 @@ function select_row()
 	})
 };
 
+function validateForm(){
+//Sanitazing HTML input before storing it
+//Used HTMLSanitizer.js helper
+    var country = HtmlSanitizer.SanitizeHtml( document.forms["addForm"]["country"].value );
+    var whyGo =  HtmlSanitizer.SanitizeHtml(document.forms["addForm"]["whyGo"].value) ;
+    var wheretoGo = HtmlSanitizer.SanitizeHtml(document.forms["addForm"]["wheretoGo"].value);
+    var whentoGo = HtmlSanitizer.SanitizeHtml(document.forms["addForm"]["whentoGo"].value );
+    var timeinDays = HtmlSanitizer.SanitizeHtml (document.forms["addForm"]["timeinDays"].value );
+    var levelofDifficulty = HtmlSanitizer.SanitizeHtml (document.forms["addForm"]["levelofDifficulty"].value );
+    var entraceFees = HtmlSanitizer.SanitizeHtml (document.forms["addForm"]["entraceFees"].value );
+    
+//Validating if inputs are not empty
+    if (country == "") { alert("Country must be filled out"); return false; }
+    if (whyGo == "") { alert("Why go field must be filled out"); return false; }
+    if (wheretoGo == "") { alert("Where to go field must be filled out"); return false; }
+    if (whentoGo == "") { alert("When to go field must be filled out"); return false; }
+    if (timeinDays == "") { alert("Time in Days field must be filled out"); return false; }
+    if (levelofDifficulty == "") { alert("Difficulty Level field must be filled out"); return false; }
+    if (entraceFees == "") { alert("Entrance fees field must be filled out"); return false; }
+}
+
+
 function delete_row(sec, ent)
 {
 	$("#delete").click(function ()
@@ -53,3 +75,5 @@ $(document).ready(function ()
 {
 	draw_table();
 });
+
+

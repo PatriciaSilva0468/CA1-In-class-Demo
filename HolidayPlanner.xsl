@@ -20,12 +20,13 @@
                     <tbody>
                         <xsl:for-each select="/holidayplanner/section">
                             <tr>
-                                <td colspan="7">
+                                <td colspan="8">
                                     <xsl:value-of select="@name" />
                                 </td>
                             </tr>
+                            
                             <xsl:for-each select="entree">
-                                <tr>
+                                <tr id="{position()}">
                                     <xsl:attribute name="city">
                                         <xsl:value-of select="boolean(./@city)" />
                                     </xsl:attribute>

@@ -2,15 +2,6 @@
 <holidayplanner>
   <section name="Africa">
     <entree>
-      <country>Uganda</country>
-      <whyGo>Trek to see mountain gorillas in the wild</whyGo>
-      <wheretoGo>Mgahinga Gorilla National Park</wheretoGo>
-      <whentoGo>Anytime</whentoGo>
-      <timeinDays>12</timeinDays>
-      <levelofDifficulty>Medium</levelofDifficulty>
-      <entraceFees>544.56</entraceFees>
-    </entree>
-    <entree>
       <country>Kenya and Tanzania</country>
       <whyGo>Watch the Great Migration</whyGo>
       <wheretoGo>Serengeti National Park</wheretoGo>
@@ -45,15 +36,6 @@
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>136.14</entraceFees>
-    </entree>
-    <entree>
-      <country>Morocco</country>
-      <whyGo>Camel trek in the Sahara Desert and slept under the stars</whyGo>
-      <wheretoGo>Marrakesh</wheretoGo>
-      <whentoGo>Year-round</whentoGo>
-      <timeinDays>5</timeinDays>
-      <levelofDifficulty>High</levelofDifficulty>
-      <entraceFees>40</entraceFees>
     </entree>
   </section>
   <section name="Asia">

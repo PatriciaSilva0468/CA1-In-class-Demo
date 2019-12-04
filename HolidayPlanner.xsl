@@ -33,6 +33,11 @@
                                     <td align="center">
                                         <input name="country0" type="checkbox" />
                                     </td>
+
+                                    <td>
+                                        <img src="{uri}" width="150px" align="left"/>
+                                    </td>
+
                                     <td>
                                         <xsl:value-of select="country" />
                                     </td>

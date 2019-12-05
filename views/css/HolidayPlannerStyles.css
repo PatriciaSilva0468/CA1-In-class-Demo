@@ -6,6 +6,7 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -33,6 +34,6 @@ table, th, td {
      font-weight: bold;
 }
 .selected {
-            background-color: #dc3545;
+            background-color: #00bfff;
             color: #FFF;
 }

@@ -4,7 +4,8 @@ var http = require('http'),
     fs = require('fs'),
     xmlParse = require('xslt-processor').xmlParse,
     xsltProcess = require('xslt-processor').xsltProcess,
-    xml2js = require('xml2js');
+    xml2js = require('xml2js'),
+    expAutoSan = require('express-autosanitizer');
 
 var router = express();
 var server = http.createServer(router);

@@ -2,6 +2,7 @@
 <holidayplanner>
   <section name="Africa">
     <entree>
+      <uri>https://www.amaniafrika.com/wp-content/uploads/slideshow-gallery/calving.jpg</uri>
       <country>Kenya and Tanzania</country>
       <whyGo>Watch the Great Migration</whyGo>
       <wheretoGo>Serengeti National Park</wheretoGo>
@@ -9,9 +10,9 @@
       <timeinDays>8</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>54.46</entraceFees>
-      <uri>https://www.amaniafrika.com/wp-content/uploads/slideshow-gallery/calving.jpg</uri>
     </entree>
     <entree>
+      <uri>https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGm5chM7PJs4/v0/1000x-1.jpg</uri>
       <country>Zambia and Zimbabwe</country>
       <whyGo>Visit the largest waterfalls in the world</whyGo>
       <wheretoGo>Victoria Falls</wheretoGo>
@@ -19,10 +20,9 @@
       <timeinDays>2</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>27.23</entraceFees>
-            <uri>https://timbuktutravel.imgix.net/regions/kodak_images/000/000/046/original/victoria-falls-zimbabwe-timbuktu-travel.jpg?w=1420&h=946&auto=format&crop=fit&fit=min&dpr=1&q=50</uri>
-
     </entree>
     <entree>
+      <uri>https://drwyjmricaxm7.cloudfront.net/blog/wp-content/uploads/2018/07/A-red-dune-in-Sossusvlei-in-Namibia.jpg</uri>
       <country>Namibia</country>
       <whyGo>Climb some of the highest sand dunes in the world</whyGo>
       <wheretoGo>Namib-Naukluft National Park</wheretoGo>
@@ -30,10 +30,9 @@
       <timeinDays>4</timeinDays>
       <levelofDifficulty>Medium</levelofDifficulty>
       <entraceFees>72.61</entraceFees>
-            <uri>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsg2SbOj5eUlcaf-FGOJgJ1KMor3_0hQYuckQ3k_nKZ3uVYg-7A&s</uri>
-
     </entree>
     <entree>
+      <uri>https://cdn5.tropicalsky.co.uk/images/700x530/hippo-chobe.jpg</uri>
       <country>Botswana</country>
       <whyGo>Up-close wildlife experiences</whyGo>
       <wheretoGo>Okavango Delta</wheretoGo>
@@ -41,352 +40,298 @@
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>136.14</entraceFees>
-            <uri>https://cdn5.tropicalsky.co.uk/images/700x530/hippo-chobe.jpg</uri>
-
     </entree>
-    
   </section>
   <section name="Asia">
     <entree>
       <country>Indonesia</country>
+      <uri>https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/1d/1b/9d.jpg</uri>
       <whyGo>Looming volcanoes and lush terraced rice fields that exude peace and serenity</whyGo>
       <wheretoGo>Bali</wheretoGo>
       <whentoGo>April and October</whentoGo>
       <timeinDays>7</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>27.72</entraceFees>
-            <uri>https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/1d/1b/9d.jpg</uri>
-
     </entree>
     <entree>
       <country>India</country>
+      <uri>https://cdn.britannica.com/07/153507-050-8E4FD6E3/Boats-Varanasi-Ganges-River-India-Uttar-Pradesh.jpg</uri>
       <whyGo>Watch pilgrims come to the Ganges to wash away sins in the sacred waters, to cremate their loved ones, or simply to die, hoping for liberation from the cycle of rebirth</whyGo>
       <wheretoGo>Varanasi</wheretoGo>
       <whentoGo>November to February</whentoGo>
       <timeinDays>2</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>15.43</entraceFees>
-            <uri>https://cdn.britannica.com/07/153507-050-8E4FD6E3/Boats-Varanasi-Ganges-River-India-Uttar-Pradesh.jpg</uri>
-
     </entree>
     <entree>
       <country>Nepal</country>
+      <uri>https://www.intrepidtravel.com/sites/intrepid/files/styles/low-quality/public/elements/product/hero/Nepal-Annapurna-Himalaya-Hiking-Pax-Mountain-3.jpg</uri>
       <whyGo>Everest or Annapurna trekking</whyGo>
       <wheretoGo>Himalaya</wheretoGo>
       <whentoGo>Mid of September to mid of December</whentoGo>
       <timeinDays>15</timeinDays>
       <levelofDifficulty>High</levelofDifficulty>
       <entraceFees>1.452.15</entraceFees>
-            <uri>https://www.intrepidtravel.com/sites/intrepid/files/styles/low-quality/public/elements/product/hero/Nepal-Annapurna-Himalaya-Hiking-Pax-Mountain-3.jpg</uri>
-
     </entree>
     <entree>
       <country>Japan</country>
+      <uri>https://static.boredpanda.com/blog/wp-content/uploads/2017/05/Lost-in-Kyoto-and-the-sakura-blossom-59101a625b230__880.jpg</uri>
       <whyGo>Watch cherry blossoms in full bloom</whyGo>
       <wheretoGo>Kyoto</wheretoGo>
       <whentoGo>March</whentoGo>
       <timeinDays>4</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>75.33</entraceFees>
-            <uri>https://static.boredpanda.com/blog/wp-content/uploads/2017/05/Lost-in-Kyoto-and-the-sakura-blossom-59101a625b230__880.jpg</uri>
-
     </entree>
     <entree>
       <country>Cambodia</country>
+      <uri>https://img.jakpost.net/c/2019/04/24/2019_04_24_70695_1556072953._large.jpg</uri>
       <whyGo>Visit the largest religious monument in the world</whyGo>
       <wheretoGo>Angkor Wat temple</wheretoGo>
       <whentoGo>November to March</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>33.58</entraceFees>
-            <uri>https://img.jakpost.net/c/2019/04/24/2019_04_24_70695_1556072953._large.jpg</uri>
-
     </entree>
     <entree>
       <country>Vietnam</country>
+      <uri>https://cdn2.travelwireasia.com/wp-content/uploads/2018/08/Halong-Bay-Vietnam-897x500.jpg</uri>
       <whyGo>Visit the islets in the bay and topped by thick jungle growth</whyGo>
       <wheretoGo>Halong Bay</wheretoGo>
       <whentoGo>October to December</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>11.80</entraceFees>
-            <uri>https://cdn2.travelwireasia.com/wp-content/uploads/2018/08/Halong-Bay-Vietnam-897x500.jpg</uri>
-
     </entree>
     <entree>
       <country>Bhutan</country>
+      <uri>https://s27363.pcdn.co/wp-content/uploads/2017/02/Tigers-Nest-Hike.jpg.optimal.jpg</uri>
       <whyGo>Visit the sacred monastery built on a rocky cliff 3,000 feet above the Paro valley</whyGo>
       <wheretoGo>Tiger’s Nest Temple</wheretoGo>
       <whentoGo>March to May</whentoGo>
       <timeinDays>1</timeinDays>
       <levelofDifficulty>High</levelofDifficulty>
       <entraceFees>6.34</entraceFees>
-            <uri>https://s27363.pcdn.co/wp-content/uploads/2017/02/Tigers-Nest-Hike.jpg.optimal.jpg</uri>
-
     </entree>
     <entree>
       <country>Philippines</country>
+      <uri>https://cdn.britannica.com/96/150496-050-5AFD623C/farmer-Ifugao-rice-terraces-Banaue-Philippines-Luzon.jpg</uri>
       <whyGo>Visit the beautiful rice terraces</whyGo>
       <wheretoGo>Banaue</wheretoGo>
       <whentoGo>April to May or October to November</whentoGo>
       <timeinDays>6</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>1.25</entraceFees>
-            <uri>https://cdn.britannica.com/96/150496-050-5AFD623C/farmer-Ifugao-rice-terraces-Banaue-Philippines-Luzon.jpg</uri>
-
     </entree>
-    
   </section>
   <section name="South America">
     <entree>
       <country>Peru</country>
+      <uri>https://content.api.news/v3/images/bin/0e2d42c8132a3983bd5db4db89321d4d?width=1280</uri>
       <whyGo>Find out the mysteries of the Inca Empire</whyGo>
       <wheretoGo>Machu Picchu</wheretoGo>
       <whentoGo>April and October</whentoGo>
       <timeinDays>1</timeinDays>
       <levelofDifficulty>High</levelofDifficulty>
       <entraceFees>40.84</entraceFees>
-            <uri>https://content.api.news/v3/images/bin/0e2d42c8132a3983bd5db4db89321d4d?width=1280</uri>
-
     </entree>
     <entree>
       <country>Chile</country>
+      <uri>http://cdn.cnn.com/cnnnext/dam/assets/180718130103-05-atacama-desert--.jpg</uri>
       <whyGo>Visit the world’s driest desert</whyGo>
       <wheretoGo>Atacama Desert</wheretoGo>
       <whentoGo>September to November and March to May</whentoGo>
       <timeinDays>4</timeinDays>
       <levelofDifficulty>Medium</levelofDifficulty>
       <entraceFees>3.29</entraceFees>
-            <uri>http://cdn.cnn.com/cnnnext/dam/assets/180718130103-05-atacama-desert--.jpg</uri>
-
     </entree>
     <entree>
       <country>Ecuador</country>
+      <uri>https://s26561.pcdn.co/wp-content/uploads/2016/09/Marine-Iguana-Galapagos-Islands.jpg</uri>
       <whyGo>Enjoy fascinating wildlife</whyGo>
       <wheretoGo>Galapagos Islands</wheretoGo>
       <whentoGo>December to June</whentoGo>
       <timeinDays>5</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>90.76</entraceFees>
-            <uri>https://s26561.pcdn.co/wp-content/uploads/2016/09/Marine-Iguana-Galapagos-Islands.jpg</uri>
-
     </entree>
     <entree>
       <country>Bolivia</country>
+      <uri>https://media-cdn.tripadvisor.com/media/photo-s/17/d0/d4/26/salar-de-uyuni-tours.jpg</uri>
       <whyGo>Visit the largest sault desert in the world</whyGo>
       <wheretoGo>Salar de Uyuni</wheretoGo>
       <whentoGo>February and March</whentoGo>
       <timeinDays>4</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>90.76</entraceFees>
-            <uri>https://cdn2.wanderlust.co.uk/media/1062/cropped-shutterstock_485637175.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131994708980000000</uri>
-
     </entree>
     <entree>
       <country>Argentina</country>
+      <uri>https://www.slingadventures.com/wp-content/uploads/2017/09/ushuaia-feature.png</uri>
       <whyGo>Visit the end of the world</whyGo>
       <wheretoGo>Ushuaia</wheretoGo>
       <whentoGo>October to February</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>0.76</entraceFees>
-            <uri>https://www.slingadventures.com/wp-content/uploads/2017/09/ushuaia-feature.png</uri>
-
     </entree>
     <entree>
       <country>Brazil</country>
+      <uri>https://media.gettyimages.com/photos/young-man-walking-on-the-sand-dunes-of-lenois-maranhenses-picture-id988161694?s=612x612</uri>
       <whyGo>Have fun at those immense expanses of dunes, which look like lençóis (bedsheets) strewn across the landscape</whyGo>
       <wheretoGo>Parque Nacional dos Lençóis Maranhenses</wheretoGo>
       <whentoGo>June to August</whentoGo>
       <timeinDays>10</timeinDays>
       <levelofDifficulty>Medium</levelofDifficulty>
       <entraceFees>8.56</entraceFees>
-            <uri>https://media.gettyimages.com/photos/young-man-walking-on-the-sand-dunes-of-lenois-maranhenses-picture-id988161694?s=612x612</uri>
-
     </entree>
   </section>
   <section name="North America">
     <entree city="true">
       <country>United States</country>
+      <uri>https://cdn.getyourguide.com/img/tour_img-1016259-146.jpg</uri>
       <whyGo>Visit this melting pot of the entire world</whyGo>
       <wheretoGo>New York</wheretoGo>
       <whentoGo>April to June and September to early November</whentoGo>
       <timeinDays>5</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>216.91</entraceFees>
-            <uri>https://cdn.getyourguide.com/img/tour_img-1016259-146.jpg</uri>
-
     </entree>
     <entree city="true">
       <country>Cuba</country>
+      <uri>https://www.wendyperrin.com/wp-content/uploads/2016/04/vintage-cars-old-havana-cuba-cr-michael-petit.jpg</uri>
       <whyGo>Watch classic cars roam and seasoned gentlemen surround themselves in billows of cigar smoke</whyGo>
       <wheretoGo>Old Havana</wheretoGo>
       <whentoGo>December to May</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>40.84</entraceFees>
-            <uri>https://www.wendyperrin.com/wp-content/uploads/2016/04/vintage-cars-old-havana-cuba-cr-michael-petit.jpg</uri>
-
-    </entree>
-    <entree>
-      <country>Hawaii</country>
-      <whyGo>Enjoy the swinging coconut and palm trees and the very blue seas</whyGo>
-      <wheretoGo>Honolulu</wheretoGo>
-      <whentoGo>April, May, September and October</whentoGo>
-      <timeinDays>10</timeinDays>
-      <levelofDifficulty>Low</levelofDifficulty>
-      <entraceFees>177.89</entraceFees>
-            <uri>https://www.traveller.com.au/content/dam/images/g/v/l/7/v/q/image.related.articleLeadwide.620x349.gvl7tv.png/1493001430985.jpg</uri>
-
     </entree>
     <entree>
       <country>Canada</country>
+      <uri>https://www.traveller.com.au/content/dam/images/h/1/7/a/2/9/image.related.articleLeadwide.620x349.h176k5.png/1541121761223.jpg</uri>
       <whyGo>Visit the polar bear capital of the world</whyGo>
       <wheretoGo>Churchill</wheretoGo>
       <whentoGo>July to November</whentoGo>
       <timeinDays>6</timeinDays>
       <levelofDifficulty>Medium</levelofDifficulty>
       <entraceFees>329.64</entraceFees>
-            <uri>https://www.traveller.com.au/content/dam/images/h/1/7/a/2/9/image.related.articleLeadwide.620x349.h176k5.png/1541121761223.jpg</uri>
-
     </entree>
     <entree>
       <country>Mexico</country>
+      <uri>https://cdn.aarp.net/content/dam/aarp/travel/international/2019/04/1140-playa-del-carmen-beach.imgcache.rev01b134dcd46ff59d439cea8c82e11a55.jpg</uri>
       <whyGo>Enjoy soft sands on the beache and its stunning shoreline views</whyGo>
       <wheretoGo>Playa del Carmen</wheretoGo>
       <whentoGo>April and May</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>33.58</entraceFees>
-            <uri>https://content.r9cdn.net/rimg/dimg/78/70/001b704a-city-15939-1629b33a69c.jpg?width=1200&height=630&crop=true&xhint=1871&yhint=1167</uri>
-
     </entree>
   </section>
   <section name="Europe">
     <entree>
       <country>Hungary</country>
+      <uri>https://i.pinimg.com/originals/a5/59/e5/a559e58759c135aee3c3d55bec698c38.jpg</uri>
       <whyGo>Relax at almost 125 thermal springs</whyGo>
       <wheretoGo>Budapest</wheretoGo>
       <whentoGo>March to May and September through November</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>12</entraceFees>
-            <uri>https://i.pinimg.com/originals/a5/59/e5/a559e58759c135aee3c3d55bec698c38.jpg</uri>
-
     </entree>
     <entree>
       <country>Switzerland</country>
-      <whyGo>Visit some of the most dramatic scenery in the world and haven for winter sports enthusiasts</whyGo>
+      <uri>https://miro.medium.com/max/8064/1*yweiw7AyafIdk0YKt4G03Q.jpeg</uri>
+      <whyGo>Visit some of the most dramatic scenery in the world and haven for enthusiasts</whyGo>
       <wheretoGo>Swiss Alps</wheretoGo>
       <whentoGo>April and June, and September to October</whentoGo>
       <timeinDays>2</timeinDays>
       <levelofDifficulty>Medium</levelofDifficulty>
       <entraceFees>177.89</entraceFees>
-            <uri>https://miro.medium.com/max/8064/1*yweiw7AyafIdk0YKt4G03Q.jpeg</uri>
-
     </entree>
     <entree city="true">
       <country>Turkey</country>
+      <uri>https://www.turismo.it/typo3temp/pics/ed8f0f6a63.jpg</uri>
       <whyGo>Be amazed at ancient city that boasts modern advances</whyGo>
       <wheretoGo>Istanbul</wheretoGo>
       <whentoGo>April and June, and September to October</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>29.95</entraceFees>
-            <uri>https://www.turismo.it/typo3temp/pics/ed8f0f6a63.jpg</uri>
-
     </entree>
     <entree>
       <country>Italy</country>
+      <uri>https://bigseventravel.com/wp-content/uploads/2019/04/Screenshot-2019-04-22-at-21.50.47.png</uri>
       <whyGo>Discover the landscapes of Tuscany, the vineyards, cypress paths, gastronomy and the art of living of this region</whyGo>
       <wheretoGo>Tuscany</wheretoGo>
       <whentoGo>September and October, and April and May</whentoGo>
       <timeinDays>5</timeinDays>
       <levelofDifficulty>Medium</levelofDifficulty>
       <entraceFees>115</entraceFees>
-            <uri>https://bigseventravel.com/wp-content/uploads/2019/04/Screenshot-2019-04-22-at-21.50.47.png</uri>
-
     </entree>
     <entree>
       <country>Greece</country>
+      <uri>https://sofiaadventures.com/wp-content/uploads/2019/08/shutterstock_1031111119.jpg</uri>
       <whyGo>Discover complex of Santorini islands and an active volcano</whyGo>
       <wheretoGo>Santorini</wheretoGo>
       <whentoGo>April and early November</whentoGo>
       <timeinDays>5</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>109</entraceFees>
-            <uri>https://lonelyplanetwp.imgix.net/2016/04/Santorini-53c9e0dca77b.jpg?fit=min&q=40&sharp=10&vib=20&w=1470</uri>
-
     </entree>
   </section>
   <section name="Australia and Oceania">
     <entree>
       <country>Australia</country>
+      <uri>https://cdn-blog.queensland.com/wp-content/uploads/2014/01/turtles_lauren-bath-1.png</uri>
       <whyGo>Watch the turtles hatch in Queensland</whyGo>
       <wheretoGo>Mon Repos Conservation Park</wheretoGo>
       <whentoGo>January to April</whentoGo>
       <timeinDays>7</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>8.60</entraceFees>
-            <uri>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnuE919OsbMjj0ENTvFn49B1ZA3gA0XZdh_A8SAdL18crYd4V&s</uri>
-
     </entree>
     <entree>
       <country>Polynesia</country>
+      <uri>https://pix10.agoda.net/hotelImages/336/336870/336870_16042115000041680438.jpg?s=1024x768</uri>
       <whyGo>Dream with a fantastic lagoon and beautiful coral reefs</whyGo>
       <wheretoGo>Bora Bora</wheretoGo>
       <whentoGo>November and April</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>122.53</entraceFees>
-            <uri>https://pix10.agoda.net/hotelImages/336/336870/336870_16042115000041680438.jpg?s=1024x768</uri>
-
-    </entree>
-    <entree>
-      <country>The Cook Islands</country>
-      <whyGo>Visit jewels in turquoise and azure water protected by coral reefs</whyGo>
-      <wheretoGo>Rarotonga</wheretoGo>
-      <whentoGo>May to October</whentoGo>
-      <timeinDays>12</timeinDays>
-      <levelofDifficulty>Low</levelofDifficulty>
-      <entraceFees>57.27</entraceFees>
-            <uri>https://cookislands.travel/sites/default/files/inline-images/hp-thingstodoSection03.jpg</uri>
-
     </entree>
     <entree>
       <country>New Zealand</country>
+      <uri>https://indigocarhire.co.uk/wp-content/uploads/2014/10/Ski-Car-Rental-New-Zealand.jpg</uri>
       <whyGo>Ski and surf on the same day</whyGo>
       <wheretoGo>Christchurch</wheretoGo>
       <whentoGo>December to February</whentoGo>
       <timeinDays>3</timeinDays>
       <levelofDifficulty>High</levelofDifficulty>
       <entraceFees>27.23</entraceFees>
-            <uri>https://indigocarhire.co.uk/wp-content/uploads/2014/10/Ski-Car-Rental-New-Zealand.jpg</uri>
-
     </entree>
     <entree>
       <country>Micronesia</country>
+      <uri>http://www.unenvironment.org/sites/default/files/2018-04/palau1_4.jpg</uri>
       <whyGo>Delight all senses with this archipelago of more than 200 extraordinary volcanic islands, stunning emerald green forests and shimmering blue lagoons</whyGo>
       <wheretoGo>Palau</wheretoGo>
       <whentoGo>November and April</whentoGo>
       <timeinDays>5</timeinDays>
       <levelofDifficulty>Low</levelofDifficulty>
       <entraceFees>136.14</entraceFees>
-            <uri>http://www.unenvironment.org/sites/default/files/2018-04/palau1_4.jpg</uri>
-
     </entree>
   </section>
   <section name="Antarctica">
     <entree>
       <country>Antarctica</country>
+      <uri>https://www.jacadatravel.com/wp-content/uploads/fly-images/237612/cuverville-island-antarctica-1600x700-cc.jpg</uri>
       <whyGo>Great white continent and one of the last true wilderness areas on earth</whyGo>
       <wheretoGo>Argentina, Chile, New Zealand or South Africa</wheretoGo>
       <whentoGo>October to March</whentoGo>
       <timeinDays>6 to 35</timeinDays>
       <levelofDifficulty>High</levelofDifficulty>
       <entraceFees>3.176.57</entraceFees>
-            <uri>https://www.jacadatravel.com/wp-content/uploads/fly-images/237612/cuverville-island-antarctica-1600x700-cc.jpg</uri>
-
     </entree>
   </section>
 </holidayplanner>

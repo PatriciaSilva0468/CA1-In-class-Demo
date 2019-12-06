@@ -11,10 +11,10 @@
                             <th></th>
                             <th>country</th>
                             <th>whyGo</th>
-			    <th>wheretoGo</th>
-		            <th>whentoGo</th>
-	                    <th>timeinDays</th>
-		            <th>levelofDifficulty</th>
+			                <th>wheretoGo</th>
+		                    <th>whentoGo</th>
+	                        <th>timeinDays</th>
+		                    <th>levelofDifficulty</th>
                             <th>entraceFees</th>
                         </tr>
                     </thead>
@@ -57,7 +57,7 @@
 									<td align="right">
                                         <xsl:value-of select="levelofDifficulty" />
                                     </td>
-                                                                        <td align="right">
+                                        <td align="right">
                                         <xsl:value-of select="entraceFees" />
                                     </td>
                                 </tr>
@@ -65,5 +65,6 @@
                         </xsl:for-each>
                     </tbody>
                 </table>
+                <br/>
     </xsl:template>
 </xsl:stylesheet>

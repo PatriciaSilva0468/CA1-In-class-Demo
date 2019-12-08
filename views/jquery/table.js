@@ -1,5 +1,7 @@
 function draw_table()
-/* I got this code from here https://github.com/mikhail-cct/CA1-In-class-Demo/blob/master/views/jquery/table.js and did the additional adjustments for my own project */
+/*I got this code from here https://github.com/mikhail-cct/CA1-In-class-Demo/blob/master/views/jquery/table.js and did the additional adjustments for my own project */
+/*Table js will basically draw the table that we see for the user access*/
+/*JQuery Syntax is also being used to select HTML elements and perform actions on them.*/
 {
 	$("#results").empty();
 	$.getJSONuncached = function (url)
@@ -18,7 +20,7 @@ function draw_table()
 	};
 	$.getJSONuncached("/get/html")
 };
-
+/*JQuery Syntax is also being used to select HTML elements and perform actions on them. In the example below, $ sign defines jQuery to select a class and them delete the section and entree based on their id. */
 function select_row()
 {
 	$("#plannerTable tbody tr[id]").click(function ()
@@ -54,7 +56,7 @@ function validateForm(){
     if (entraceFees == "") { alert("Entrance fees field must be filled out"); return false; }
 }
 
-
+/*JQuery Syntax is also being used to perform delete action on row selected.*/
 function delete_row(sec, ent)
 {
 	$("#delete").click(function ()

@@ -1,4 +1,5 @@
 function draw_table()
+/* I got this code from here https://github.com/mikhail-cct/CA1-In-class-Demo/blob/master/views/jquery/table.js and did the additional adjustments for my own project */
 {
 	$("#results").empty();
 	$.getJSONuncached = function (url)
@@ -33,6 +34,7 @@ function select_row()
 function validateForm(){
 //Sanitazing HTML input before storing it
 //Used HTMLSanitizer.js helper
+//JavaScript HTML Sanitizer, (c) Alexander Yumashev, Jitbit Software.
     var country = HtmlSanitizer.SanitizeHtml( document.forms["addForm"]["country"].value );
     var whyGo =  HtmlSanitizer.SanitizeHtml(document.forms["addForm"]["whyGo"].value) ;
     var wheretoGo = HtmlSanitizer.SanitizeHtml(document.forms["addForm"]["wheretoGo"].value);
@@ -42,6 +44,7 @@ function validateForm(){
     var entraceFees = HtmlSanitizer.SanitizeHtml (document.forms["addForm"]["entraceFees"].value );
     
 //Validating if inputs are not empty
+//I used this website as a reference for implement the validation required: https://www.javatpoint.com/javascript-form-validation
     if (country == "") { alert("Country must be filled out"); return false; }
     if (whyGo == "") { alert("Why go field must be filled out"); return false; }
     if (wheretoGo == "") { alert("Where to go field must be filled out"); return false; }

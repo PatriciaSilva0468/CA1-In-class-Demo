@@ -3,6 +3,7 @@
 //homepage https://github.com/jitbit/HtmlSanitizer
 
 //License: GNU GPL v3 https://github.com/jitbit/HtmlSanitizer/blob/master/LICENSE
+//This HTMLSatinizer below is being used as a helper for the sanitisation process
 
 console.log('Sanitizer loading');
 

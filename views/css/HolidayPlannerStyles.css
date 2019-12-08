@@ -1,4 +1,5 @@
 html {
+    /* I got this code from https://github.com/mikhail-cct/CA1-In-class-Demo/blob/master/views/css/PaddysCafeStyles.css */
   position: relative;
   min-height: 100%;
 }
@@ -34,6 +35,7 @@ table, th, td {
      font-weight: bold;
 }
 .selected {
+    /* Set the background-color to blue */
             background-color: #00bfff;
             color: #FFF;
 }

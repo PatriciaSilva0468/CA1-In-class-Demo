@@ -1,3 +1,4 @@
+//I got this link from https://github.com/mikhail-cct/CA1-In-class-Demo/blob/master/views/js/PaddysCafeCode.js
 var gEntreeCount = 0;
 										// returns a number that represents the sum of all the selected menu
 										// item prices.

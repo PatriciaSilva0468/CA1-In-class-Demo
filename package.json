@@ -8,20 +8,18 @@
     "express-autosanitizer": "^1.0.1",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
+    "mongoose": "^5.9.10",
     "path": "^0.12.7",
     "xml2js": "^0.4.23",
     "xslt-processor": "^0.11.5"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PatriciaSilva0468/CA1-In-class-Demo.git"
-  },
-  "scripts": {
-    "start": "node app.js"
   },
   "author": "myself",
   "license": "ISC",

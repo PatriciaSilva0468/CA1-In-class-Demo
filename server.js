@@ -13,6 +13,8 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(require('./routes'));
 
+app.get('/users', userCtrl.createUser);
+
 app.listen(port, function(err){
     console.log("Listening on Port: " + port)
 });
